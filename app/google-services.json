@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79102175780",
+    "project_id": "foodbar-efb84",
+    "storage_bucket": "foodbar-efb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79102175780:android:3b1af31bef9d6bcc7506b1",
+        "android_client_info": {
+          "package_name": "com.example.foodbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79102175780-ttrjhrf4seoiino29q1ti5iu964cnila.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodbar",
+            "certificate_hash": "1391e1e3b88fc38102bc06a0fa4b91333656b4e1"
+          }
+        },
+        {
+          "client_id": "79102175780-64pevhaer4qf5eb6lccehanpv8vn0er8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9wHc7G37jqftnhYza3coF7Xt0Tv6M8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79102175780-64pevhaer4qf5eb6lccehanpv8vn0er8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
